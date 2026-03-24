@@ -2,4 +2,4 @@
 
 Instructions available at [GameBrew](https://www.gamebrew.org/wiki/MUX_PSP). Signed using [PSCrypter](https://www.gamebrew.org/wiki/PSCrypter_PSP).
 
-Download from the Releases page.
+Download from the [Releases](https://github.com/kathyrollo/mux21-signed/releases) page.
